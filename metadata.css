@@ -1,0 +1,38 @@
+/*
+* Leah Rizzo
+* September 10, 2018
+* CSS
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* This makes my main change color to sky blue */
+main {
+    background-color: skyblue;
+}
+/* This turns my header light pink */
+header {
+    background-color: lightpink;
+}
+/* This makes the footer change to a light yellow  */
+footer {
+    background-color: lightgoldenrodyellow;
+}
+/* This is the font of words in the body */
+body {
+    font-family: Times New Roman, sans-serif;
+    
+/* This is the image on my web page */
+}
+#Painting {width: 400px; height: 300px;float:right;}
+/* This changes the font and size of my title */
+h1{
+font-size: 190%;
+text-align: center;
+text-transform: uppercase;
+text-decoration: underline overline;
+}
